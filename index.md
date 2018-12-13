@@ -43,3 +43,5 @@ Listed links:
 [Figma Demo](https://www.figma.com/proto/aUmgnrlAme9eZp8R4sqzqa6g/Main?node-id=15%3A2&scaling=min-zoom)
 
 [Figma Project](https://www.figma.com/file/aUmgnrlAme9eZp8R4sqzqa6g/Main?node-id=0%3A1)
+
+[Final Video](https://drive.google.com/file/d/1lHKPngsfV19Mkbsh_L7gQTIWUSk4GNHy/view?usp=sharing)
